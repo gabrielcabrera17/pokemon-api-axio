@@ -1,0 +1,4 @@
+.listaPokemon{
+    display: flex;
+    justify-content: center;
+}
